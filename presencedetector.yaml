@@ -52,6 +52,11 @@ wifi:
     ssid: "Presencedetector"
    # password: "1MfDn6vjWLyY"
 
+# This should point to the public location of this yaml file.
+dashboard_import:
+  package_import_url: "github://runningtoy/publicESPHome/presencedetector.yaml@main"
+  import_full_config: false
+  
 captive_portal:
 
 #web_server:
