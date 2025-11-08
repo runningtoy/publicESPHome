@@ -10,7 +10,7 @@ esphome:
   # so you can use a single firmware for all devices
   name_add_mac_suffix: true
   project:
-    name: esphome.PresenceDetectorLux
+    name: esphome.ShellyMiniGen3
     version: "1.0"
 
 esp32:
